@@ -8,9 +8,9 @@ Our customer wants information about temperature trends before opening the surf 
 - June's low is 64 degrees while December's low is 56 degrees.
 - June's data has an 25% IQR of 73 degrees and 75% IQR of 77 degrees while December has an 25% IQR of 69 degrees and 75% IQR of 74 degrees.
 
-## December
+
 <img width="173" alt="December_Temps" src="https://user-images.githubusercontent.com/88418332/138616571-de091aa9-73d2-4d47-8be6-85e3f4e8e6e8.png">
-## June
+
 <img width="150" alt="June_Temps" src="https://user-images.githubusercontent.com/88418332/138616583-e124b10c-f2b5-41cd-a8d2-3defe5ce33f9.png">
 
 
